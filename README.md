@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning Big data
 - 💞️ I’m looking to collaborate on AGI AND Machine Learning and Data Science
 - 📫 How to reach me : @masyy41 (Facebook)
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 😄 Pronouns: He/HIm
+- ⚡ Fun fact: : 7 Hearts
 
 <!---
 loayabdalslam/loayabdalslam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
