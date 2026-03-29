@@ -1,6 +1,5 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=loayabdalslam&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20Engineer%20%26%20Developer&descAlignY=55&descSize=18" width="100%"/>
 
 </div>
 
@@ -42,10 +41,6 @@ loay = {
 ### GitHub Stats
 
 <div align="center">
-
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=loayabdalslam&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A9FEF7&text_color=C9D1D9&icon_color=A9FEF7&count_private=true&rank_icon=github" />&nbsp;
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=loayabdalslam&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A9FEF7&text_color=C9D1D9&langs_count=4" />
-
 <br/>
 
 <img height="130" src="https://streak-stats.demolab.com?user=loayabdalslam&theme=tokyonight&hide_border=true&background=0D1117&ring=A9FEF7&fire=FF6B6B&currStreakLabel=A9FEF7&sideLabels=C9D1D9&dates=C9D1D9&short_numbers=true" />
