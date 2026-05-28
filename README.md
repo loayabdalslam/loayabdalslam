@@ -35,25 +35,6 @@ loay = {
 [![My Skills](https://skillicons.dev/icons?i=python,typescript,javascript,pytorch,docker,nextjs,react,git,vercel,jupyter&theme=dark&perline=10)](https://skillicons.dev)
 
 </div>
-
----
-
-### 🚀 Featured Projects
-
-| Project | Description | Language | Stars |
-|---|---|---|---|
-| [**connectit.chatit**](https://github.com/loayabdalslam/connectit.chatit) | A torrent-like protocol for distributing large AI language models (LLMs) | Python | ⭐ 22 |
-| [**NeuroOS**](https://github.com/loayabdalslam/NeuroOS) | A free AI operating system for MENA region, powered by Gemini Pro 3.1 | TypeScript | ⭐ 17 |
-| [**Revolution2.0**](https://github.com/loayabdalslam/Revolution2.0) | Highly advanced agentic AI modules | JavaScript | ⭐ 17 |
-| [**hjx**](https://github.com/loayabdalslam/hjx) | A unified HTML + CSS + JS language designed for AI-assisted development | TypeScript | ⭐ 10 |
-| [**May-chrome**](https://github.com/loayabdalslam/May-chrome) | Open-source AI-powered Chrome extension for in-browser task automation | JavaScript | ⭐ 8 |
-| [**The-Helix-Algorithm**](https://github.com/loayabdalslam/The-Helix-Algorithm) | Electron-orbit-like paths for neural network optimization: the Helix Algorithm | Jupyter Notebook | ⭐ 8 |
-| [**Lolang**](https://github.com/loayabdalslam/Lolang) | Giving LLMs their freedom — an encoding/decoding language for large language models | Python | ⭐ 6 |
-| [**.Jps**](https://github.com/loayabdalslam/.Jps) | A modern, lightweight web development language that compiles to JavaScript | TypeScript | ⭐ 5 |
-| [**Wazir**](https://github.com/loayabdalslam/Wazir) | Advanced national simulation platform for multi-agent swarm intelligence (v3.3.0) | Python | ⭐ 4 |
-| [**XII**](https://github.com/loayabdalslam/XII) | A drag-and-drop MVC AI framework | TypeScript | ⭐ 4 |
-| [**UltraFastQDModel**](https://github.com/loayabdalslam/UltraFastQDModel) | A simple neural network framework built from scratch for teaching core AI concepts | Jupyter Notebook | ⭐ 3 |
-
 ---
 
 ### GitHub Stats
